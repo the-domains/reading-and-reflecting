@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Reading & Reflecting]]></title>
+        <description><![CDATA[Reading & Reflecting]]></description>
+        <link>https://thegrid.ai/reading-and-reflecting/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Nov 2015 21:28:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reading-and-reflecting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/reading-and-reflecting/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">165bf953-b956-42a9-a3c9-b99fa6f3869b</guid>
+            <pubDate>Wed, 25 Nov 2015 21:27:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hopeful. Resplendent.]]></title>
+            <description><![CDATA[<article><h1>Hopeful. Resplendent.</h1><p>Hopeful.  Resplendent. </p></article>]]></description>
+            <link>https://thegrid.ai/reading-and-reflecting/hopeful-resplendent/index.html</link>
+            <guid isPermaLink="false">f51d8931-14d2-498a-aedb-a49088ba1e91</guid>
+            <pubDate>Wed, 25 Nov 2015 21:27:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
