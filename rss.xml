@@ -4,8 +4,15 @@
         <description><![CDATA[Reading & Reflecting]]></description>
         <link>https://thegrid.ai/reading-and-reflecting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 21:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 19:48:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reading-and-reflecting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>Test post for functionality. How do you handle typography? How intelligent is this machine?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77a28b2e-d26e-4ec6-a271-5a49f11530c2.JPG"></article>]]></description>
+            <link>https://thegrid.ai/reading-and-reflecting/test-post/index.html</link>
+            <guid isPermaLink="false">e75fcdd9-c5e8-4260-b3bb-313c32ce5f7f</guid>
+            <pubDate>Thu, 26 Nov 2015 19:47:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
